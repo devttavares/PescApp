@@ -1,0 +1,6 @@
+{
+  "name": "PescApp",
+  "description": "Aplicativo marítimo e de pesca com previsão climática em tempo real, tábua de marés, guia regional da piracema, espécies e iscas com fotos personalizáveis, régua digital de captura, mapa interativo por coordenadas e painel administrativo.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

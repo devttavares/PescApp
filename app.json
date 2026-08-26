@@ -6,6 +6,12 @@
       }
     },
     "owner": "ttavaress-team",
-    "slug": "ttavares"
+    "slug": "ttavares",
+    "ios": {
+      "bundleIdentifier": "com.ttavaressteam.ttavares",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    }
   }
 }
